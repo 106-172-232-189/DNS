@@ -1,0 +1,478 @@
+
+$SOURCE  AUTO_CONFIG
+$VERSION 134
+$ADD
+@                       NS	win-qvnfg32ce30.
+ist.com. admin.umamusumelist.com. (
+                        		129          ; serial number
+                        		86400        ; refresh
+                        		3600         ; retry
+                        		432000       ; expire
+                        		86400      ) ; default TTL
+$ADD
+                        IN  SOA umamusumelist.com. admin.umamusumelist.com. (
+                        		130          ; serial number
+                        		3600         ; refresh
+                        		3600         ; retry
+                        		432000       ; expire
+                        		3600       ) ; default TTL
+$DELETE
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		fzAKtxMeC0oaJmDagZ9gORJK2gaTlOVC4sx7
+                        		eNiWFI4Au5GIhKrL6u+fvnPEEeyVbkf2nczv
+                        		PA/v1vW8NipTL6mmPVsL77wAYzr+fpv7WWu4
+                        		d23uSOrwYlLPzYKJAspMWflmyjody7KvFS57
+                        		HbT1wLXUUmk34dvXl8vqz0YQ/bM=
+                        		)
+pu2pb9o63msjm7lj06jb2s46jpklijt7 RRSIG	NSEC3 8 3 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		XW8J0Ut+iGwwRjiZptKopIzi40UWzkDfoYGW
+                        		RxBspzfAcUx0FXY9UCR0RO128YJCiYPyQ2Y+
+                        		n4pJZ84oS3vMN1l+Hq/JVArHF2OrFEe61mHh
+                        		t/t+2NXcJ0vXBkaUtOdSxtSM7odbH5D1Jp6f
+                        		K5CMCDZJ28JvS/Wq6jo07hjaNNA=
+                        		)
+                        NSEC3	1 0 50 70F3E00FCFD69507 7s7qkeska4hgj6f5njn81f2klaaf633c A NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+$ADD
+                        NSEC3	1 0 50 70F3E00FCFD69507 7s7qkeska4hgj6f5njn81f2klaaf633c A NS SOA MX TXT RRSIG DNSKEY NSEC3PARAM
+                        RRSIG	NSEC3 8 3 86400 20250409155526 (
+                        		20250330145526 65503 umamusumelist.com.
+                        		jjqOoeb30nChlGVN0ZDpZa/MqeEJl/aHuKf+
+                        		8FasMxYwlvXWAzUhC3U+dxK+Y2UQsk3iC/ZM
+                        		08bJpukaeqnoxTsQi8iB+374H4FO+vrx2AD+
+                        		EzKrenCDPbQVUCyzXnn6l6ZZV5iYRr0wp3rO
+                        		b1YRARzC6UxWslWgvH4chBWvZxU=
+                        		)
+$DELETE
+                        RRSIG	SOA 8 2 3600 20250409155526 (
+                        		20250330145526 65503 umamusumelist.com.
+                        		OaYpFqO4eCClUA6sJvcUU7yu/p3rKlrjE4tT
+                        		rPcrf+zrv+FiUXA/Vx9yzS7JtaAcjFo4bo2E
+                        		9cAt0u0CQCHM9Z8UkZw6c8Q3sMS0/laH+SSd
+                        		x+ULmpbohnSyaGJVOypzef9BayJu9FlAMjI3
+                        		sI04YNlQucJIL0HyYezENb0JGM0=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 3600 20250409155526 (
+                        		20250330145526 65503 umamusumelist.com.
+                        		yjosZH09Iq/1oMtfR+6poO4uWBzgV1nBTy70
+                        		piAsAuRJ07IcX8xQaz+wZ9/yp7AVwYd68aRo
+                        		ZblSKNYssXm59ZJDLXWk7YCqqo793z4DOzYk
+                        		EzdiHXRPBEHSNq5xzrACFi+9ZSJeejPuRxFv
+                        		1W8q70lyop6JT7PK3/7w7ASC/WI=
+                        		)
+jp.
+                        432000	RRSIG	NS 8 2 432000 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		eZhu01bEneLwndPMUllRoA7sxRX2mY9x5Vdj
+                        		PhuzUsFxSObf/ZdDyaB1hwyPny6xs17iyzad
+                        		9WRmz2FBUxzLFMH9ULtGcO9kaE7IB5Nvc6z5
+                        		zz3V4pkjRcvzhO3z5dXTDr/3VA5xjOqLuZPl
+                        		hkHaqSNYHf9Yfy/629MPX+Dx0CU=
+                        		)
+$ADD
+                        3600	RRSIG	NS 8 2 3600 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		V2Y41bObZzFFkWni4nYkUVAQSqs3PxRDYDep
+                        		Wr+9wOJG92S5b2BFFE/Q5TkFJDhwc6KEj6Tu
+                        		hLVG5Ig2TTt8SUfZ1EBVUJ7UdDC6FI8ddF7v
+                        		xHXG3u22YOhqct/bVUa/6GichbVZplCokVkO
+                        		8CE4SCc3NKCLzbna+XIf3NnU+0M=
+                        		)
+$DELETE
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		TYP1yLcvGvSJHbCu7waegGBt6cPgI3isB1Dq
+                        		A+YWVejsJpUnUL7UPrREscj66txhcuD7ce3c
+                        		mirDWRZFppW2QzA9pfwVoFCJzX8RPh9bk5Z6
+                        		1kn5s+Tuh/xQQ/lTeORQu0jbfnY13i71Di/n
+                        		2/tokeK8p3bM/yGFej04YeyrX7o=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		idl30C9LmaY90iPqnRyMZsPwfEeUw5htd5C+
+                        		Kb17ozfo9IxA1zV3O5gC2Jdo3DIXI7tx/LAB
+                        		jh5ABM6070qS/k8u4kMMA/d7iLGni7DNdP+h
+                        		XrxhIPFeaGgMWRm+hZVJ612SRCU5HxGch28S
+                        		YZpIm/evwW5hD8JlCS1R/tSsRsA=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 124
+$ADD
+163.44.76.202.          432000	A	163.44.76.142
+                        432000	RRSIG	A 8 4 432000 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		SLpuN4AMl3TY8jP3tefvt/bTeP3yDddjvONa
+                        		5VAJ65hyOCNkquVzCYd1E4SLnSVcdVpYOkra
+                        		DOxDuWjOt4GcDrstswH9CENqRhlNiYAxp4LC
+                        		fQHVbHIyURRF2bHi/2gWwQHgvwVbFhOJPNX6
+                        		gvPcsTb8UMm1HiLAqo051ZdS7Ww=
+                        		)
+$DELETE
+@                       RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		idl30C9LmaY90iPqnRyMZsPwfEeUw5htd5C+
+                        		Kb17ozfo9IxA1zV3O5gC2Jdo3DIXI7tx/LAB
+                        		jh5ABM6070qS/k8u4kMMA/d7iLGni7DNdP+h
+                        		XrxhIPFeaGgMWRm+hZVJ612SRCU5HxGch28S
+                        		YZpIm/evwW5hD8JlCS1R/tSsRsA=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		JUMD9GVCZK5hh8oNsIR3Cy30KdPXPC+012SU
+                        		A+9kt5O2aRB9JAudzZD0xRhT6V06noKRKnI0
+                        		Jg1lUn1Tove1BpIlLayHsTAC10kcCXp5Icyn
+                        		GfZU1UUM7nKN8ZO+k2IZMUrpaq4ZwdIyV7RM
+                        		JVhMbqGb3bvt8mDplkqf6XJvqPw=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 125
+$ADD
+163.44.76.202.          432000	AAAA	2400:8500:1301:2611:1001::142
+                        432000	RRSIG	AAAA 8 4 432000 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		fSVz0S1gxvgXppxiA8JHMkpcj79OVtwnw95t
+                        		w+kne3aPZJx63HECpAH81ETKSh4MmM8854px
+                        		ApVV1GuO0I0zUInSsJRj1nZ4Lpx/Oh5d63XS
+                        		p1vr4J/K6kCZ/lXKxpH5yF8yNTFkSwI65FVv
+                        		Ure2g4lnnmZ4ivdDC1Cqf3uOgLU=
+                        		)
+$DELETE
+@                       RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		JUMD9GVCZK5hh8oNsIR3Cy30KdPXPC+012SU
+                        		A+9kt5O2aRB9JAudzZD0xRhT6V06noKRKnI0
+                        		Jg1lUn1Tove1BpIlLayHsTAC10kcCXp5Icyn
+                        		GfZU1UUM7nKN8ZO+k2IZMUrpaq4ZwdIyV7RM
+                        		JVhMbqGb3bvt8mDplkqf6XJvqPw=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		jkkqh4hQCWIlV+x1e4oB7kK8foRBjVNgR6tT
+                        		zoSLDDI7IZ2+Umji44J4NI1oCyYY2f+J60ZD
+                        		42f8FYki8Z2KEnjfZ0fsYND01i/nfWr4M4nM
+                        		4ICKCPFDyxDxhtz9l1KLS1jtyHUVm7XgZXBr
+                        		5s4M5/Byp+eKAkx5T/IJ4cG4jBE=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 126
+$ADD
+@                       NS	2nd.dnsv.jp.
+$DELETE
+                        3600	RRSIG	NS 8 2 3600 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		V2Y41bObZzFFkWni4nYkUVAQSqs3PxRDYDep
+                        		Wr+9wOJG92S5b2BFFE/Q5TkFJDhwc6KEj6Tu
+                        		hLVG5Ig2TTt8SUfZ1EBVUJ7UdDC6FI8ddF7v
+                        		xHXG3u22YOhqct/bVUa/6GichbVZplCokVkO
+                        		8CE4SCc3NKCLzbna+XIf3NnU+0M=
+                        		)
+$ADD
+                        3600	RRSIG	NS 8 2 3600 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		EEeKImAhowc2THCQzH/wnVmtmgUtNJxG5MSK
+                        		6sm804v+eo6PYTx0CyUbpcqECDBZVn5+wgp6
+                        		qRUBQ0EKdVz3aLO8oPOvvG7qr1XoeKXhkvGB
+                        		3HreIBxHA+pSEt+QfMraQ0kKUGWttPt2qwVA
+                        		T2AsFkwF2aLwgxSlIO4vPxRPnXU=
+                        		)
+$DELETE
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		jkkqh4hQCWIlV+x1e4oB7kK8foRBjVNgR6tT
+                        		zoSLDDI7IZ2+Umji44J4NI1oCyYY2f+J60ZD
+                        		42f8FYki8Z2KEnjfZ0fsYND01i/nfWr4M4nM
+                        		4ICKCPFDyxDxhtz9l1KLS1jtyHUVm7XgZXBr
+                        		5s4M5/Byp+eKAkx5T/IJ4cG4jBE=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		ykk4fxMZ5b9x+upocmpWQ1fj3l2Qu+CcB5Ek
+                        		olRym45HZHRJhmMy3l9/OJbzUZ2FQJIzCzeR
+                        		IgixoDUIzjA0Buotzl0gWKbY1H2BZTQQK1Ab
+                        		0CuQi11hxq7MmF22YPkIHIfheRbdFnTvZyTN
+                        		G5NFG1f4KgCX0EsWaQKz1vq6Wz8=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 127
+$ADD
+2nd.dnsv.jp.            A	163.44.76.202
+$DELETE
+                        432000	RRSIG	A 8 3 432000 20250409140927 (
+                        		20250330130927 65503 umamusumelist.com.
+                        		dlP/Ityy5CLkh6dMuUqhKT4eulctWneR+s/L
+                        		pK3MVkUI721RmtAYEQShRyghoIZgr2nE7Vy6
+                        		HWlE0YDzan1CPhrOIA0Wqx2C5I9gvl599wNS
+                        		6qHiSO2XPlSCLSxjOAFNBE46sfUmUPLPWqEH
+                        		qMnpRBqMvTl8NKCNjbemZjIl5So=
+                        		)
+$ADD
+                        432000	RRSIG	A 8 3 432000 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		dCZEz/P4k+lOUSeqJDbXo2a4CwTcj5QBzWw1
+                        		quvM4ZrdwXPHmevEMBlw5p0g4asrTVhfBpQ/
+                        		doD0vtQHvyVfnkwFoK5jbkjTNktFNYIZL2Om
+                        		RT8OjzW9YmUJLtAsMSAuBqODznAz2B7hw7EY
+                        		OZSosBQdogN0Tuhsl2u7QdFnESw=
+                        		)
+$DELETE
+@                       RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		ykk4fxMZ5b9x+upocmpWQ1fj3l2Qu+CcB5Ek
+                        		olRym45HZHRJhmMy3l9/OJbzUZ2FQJIzCzeR
+                        		IgixoDUIzjA0Buotzl0gWKbY1H2BZTQQK1Ab
+                        		0CuQi11hxq7MmF22YPkIHIfheRbdFnTvZyTN
+                        		G5NFG1f4KgCX0EsWaQKz1vq6Wz8=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		11hQaV+TgQBneMCovkWZA+49lLj9HHd1W9Ac
+                        		+gnvOeglfjXqPAKmzEm/7VwEJEzVAdvqDQA+
+                        		gSx+eegDLh6G7xFEqTjzovF11+SFrinTxCPh
+                        		h8UcBLCH7VmimZXgWDsJcb2msyQyTuUxekrn
+                        		GySKav1b9ArdkDLeGKccWxhIY/U=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 128
+$DELETE
+2nd.dnsv.jp.            432000	AAAA	2400:8500:1301:2611:1001::142
+$ADD
+                        AAAA	2400:8500:1301:2611:1001::142
+$DELETE
+                        432000	RRSIG	AAAA 8 3 432000 20250409140927 (
+                        		20250330130927 65503 umamusumelist.com.
+                        		D2L7+lfKSNiWZos/zj2UnJE29P1h8xkRYxWQ
+                        		aBqOsoMpfpbtk6jQkc+6YdCkygKm4cJi+dHh
+                        		01YjrOZ8jndcK+31lQ3G+hOYZXqe3eBSrbIq
+                        		nY4BRrIkfEcbifPd7pxUkEOb6g3oAVjpY+RJ
+                        		voHRQ0lueH7/Xo4r1i4mC310OBI=
+                        		)
+$ADD
+                        RRSIG	AAAA 8 3 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		kD6Mdh8U1Y9GM6BBKTKDi67LZDA1dZI9XfiQ
+                        		fwcM8F1DkfgLX8/0YMZHysDgzxHWCiqWSuHL
+                        		7POYZLjhm+PtHuwCTLDmjJjxpU3N3Dm6wAfR
+                        		t6NPMhAKOcev3XOLd7jPbUlsmpfV7h9ClaCD
+                        		y2Lr9IDtWAoOIbrZ9odmn7/L3Ao=
+                        		)
+$DELETE
+@                       RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		11hQaV+TgQBneMCovkWZA+49lLj9HHd1W9Ac
+                        		+gnvOeglfjXqPAKmzEm/7VwEJEzVAdvqDQA+
+                        		gSx+eegDLh6G7xFEqTjzovF11+SFrinTxCPh
+                        		h8UcBLCH7VmimZXgWDsJcb2msyQyTuUxekrn
+                        		GySKav1b9ArdkDLeGKccWxhIY/U=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		kANytkSoSzmp9eY8ua+vD00PZk4QIprXSexg
+                        		/kUCig0RKWz2/wqJnu6xFKK8LSPMp/amdj6n
+                        		iRhIfsczy3ZK837dLKD2NjnQAzfVXAoDPXHq
+                        		OO5OhldfYs/vlLojjapItY1X9xP+bVC2yYoA
+                        		UdDoak/FyH6QeT8NS3UyYAaucsU=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 129
+$DELETE
+2nd.dnsv.jp.            432000	A	163.44.76.142
+$ADD
+                        A	163.44.76.142
+$DELETE
+                        432000	RRSIG	A 8 3 432000 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		dCZEz/P4k+lOUSeqJDbXo2a4CwTcj5QBzWw1
+                        		quvM4ZrdwXPHmevEMBlw5p0g4asrTVhfBpQ/
+                        		doD0vtQHvyVfnkwFoK5jbkjTNktFNYIZL2Om
+                        		RT8OjzW9YmUJLtAsMSAuBqODznAz2B7hw7EY
+                        		OZSosBQdogN0Tuhsl2u7QdFnESw=
+                        		)
+$ADD
+                        RRSIG	A 8 3 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		pwddryjbMgf+vy3E2UD6Redwfpd7DGvSm4zX
+                        		Of5+Kj9OSU3yFdhn0oCCVw5ny+njfw/Twp0c
+                        		1oCKX5+y+bTdTITrKIs7wiOokHIXjr4Ey5Vk
+                        		3NNs1kiR98fMbZM/L1RqV0hJsjOH9GPGM5Rf
+                        		0Jfk4gELeLHyuew0LrvmDgzmRI0=
+                        		)
+$DELETE
+@                       RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		kANytkSoSzmp9eY8ua+vD00PZk4QIprXSexg
+                        		/kUCig0RKWz2/wqJnu6xFKK8LSPMp/amdj6n
+                        		iRhIfsczy3ZK837dLKD2NjnQAzfVXAoDPXHq
+                        		OO5OhldfYs/vlLojjapItY1X9xP+bVC2yYoA
+                        		UdDoak/FyH6QeT8NS3UyYAaucsU=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142650 (
+                        		20250330132650 65503 umamusumelist.com.
+                        		fzAKtxMeC0oaJmDagZ9gORJK2gaTlOVC4sx7
+                        		eNiWFI4Au5GIhKrL6u+fvnPEEeyVbkf2nczv
+                        		PA/v1vW8NipTL6mmPVsL77wAYzr+fpv7WWu4
+                        		d23uSOrwYlLPzYKJAspMWflmyjody7KvFS57
+                        		HbT1wLXUUmk34dvXl8vqz0YQ/bM=
+                        		)
+	tIcDl4aGnAUF4JkZKlm0Op1xlD1pP7Y8s1FA
+                        		wL1M2k6N+mF3PjZ8ftaj7PaAoEdIWBLxkkfQ
+                        		rVlAL7YpWD3b/HJM2u738FgPffdtWl+AjLmw
+                        		AneU2lzQyxWXKPP+Wk64haAkTbAHCQSJ6DH3
+                        		CfGYsUHD8r3HOGPahzE9Ay99DXM=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		VwjwX+N+KecHco3KZrYjIUwI2nIAEJGheFDQ
+                        		Rs+XGYid4JijwFxSudkTvWqQFIUlyzZlDO9G
+                        		U4eD/0KjesVXylibUevWYRYgkrM9sCon54Q8
+                        		hEnSy7rc1qXsWgLAX8A3Rc6EjRXPp1bFRlMv
+                        		l7XGUuTDHWmJqaXGvDWa1aXX8oo=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 118
+$DELETE
+03.dnsv.jp.             AAAA	2400:8500:3000::53
+                        RRSIG	AAAA 8 3 86400 20250409141405 (
+                        		20250330131405 65503 umamusumelist.com.
+                        		kHTfUswndXb2jZKzeHYL8buDW3FNHxZVEgVV
+                        		LlTFul+YC1jA6jnqXgw/C+6AU1p8FgFnU5mD
+                        		b9kUna/QSYgAfYoCrSaUd20Ffv4RQiehVahz
+                        		BKCpAzCCYZoAxZVmsO2QArAzPTyA1LgRttiL
+                        		jvS9wY6Y0UM7fMR10HvLTkLiAhs=
+                        		)
+@                       RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		VwjwX+N+KecHco3KZrYjIUwI2nIAEJGheFDQ
+                        		Rs+XGYid4JijwFxSudkTvWqQFIUlyzZlDO9G
+                        		U4eD/0KjesVXylibUevWYRYgkrM9sCon54Q8
+                        		hEnSy7rc1qXsWgLAX8A3Rc6EjRXPp1bFRlMv
+                        		l7XGUuTDHWmJqaXGvDWa1aXX8oo=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		AG5lH03AhXIlosxv+LkKiZrwEqSPlSff3vaM
+                        		8Nh90T4v5ARFTNwePWRusdjyKjA+OJ14jLDu
+                        		yiJZqyhHucOJw3N4V9MIvoRyNOb/CM4OXAEG
+                        		ESAySIK/Q98cQTcq6vcvVGE4YdzBRfaPMOwA
+                        		h6M9q79PeoRiPvhqrjCbn8rZXes=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 119
+$DELETE
+@                       NS	04.dnsv.jp.
+                        RRSIG	NS 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		bX4/i1TTwMyBbAVuK8kZZUOkmlOfGZPSpflz
+                        		3I5K9QpCgU1fk4lzzsku6jtmt0C1y8Tv/X5u
+                        		Jng8Awuk7T/LdjACMK7jr3SWM8lnVkGAgGXT
+                        		yCWXIeNKIpWqgjTD+gtfeu6GS6dSEY9D70WE
+                        		Z2MzGFkfZCg1lFR6+ZLkp7cz/w0=
+                        		)
+$ADD
+                        3600	RRSIG	NS 8 2 3600 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		R0dEjjUY8CGQt1oQILui3erRQ3lBy5aN+AHt
+                        		vry8cuQ+j2Y1Adhx+OHiIyKQdHv2xZqE24s+
+                        		0OyQHdbFo4jWdX9rvhnIjNkjOteOzrNeG+X0
+                        		ZX9T8FMIzakfnmLG7jbpf/fxFyWIuPz1YZBG
+                        		T4aYS6NHBhH0AjpeUDI7CtNQPLU=
+                        		)
+$DELETE
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		AG5lH03AhXIlosxv+LkKiZrwEqSPlSff3vaM
+                        		8Nh90T4v5ARFTNwePWRusdjyKjA+OJ14jLDu
+                        		yiJZqyhHucOJw3N4V9MIvoRyNOb/CM4OXAEG
+                        		ESAySIK/Q98cQTcq6vcvVGE4YdzBRfaPMOwA
+                        		h6M9q79PeoRiPvhqrjCbn8rZXes=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		ArzanEFBcGVKsnoE6rTXNuYuj/aWeguufS37
+                        		XJA9oJjQGrlJQrF7NhzYgABlYzHvjQBDrOVg
+                        		xfDXWX57RI9X9W8hTjPfcTF+HRnVN0hNt2iH
+                        		tMpCGIKstWSv+htG4mvOZ+0NfI1wNgEE8mF4
+                        		VREgGByt/f66UGPZwKVD48QSVDc=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 120
+$DELETE
+04.dnsv.jp.             A	157.7.35.53
+                        RRSIG	A 8 3 86400 20250409141405 (
+                        		20250330131405 65503 umamusumelist.com.
+                        		XMaUqDJlxpD8h50eUBKvdQtQrv+rsyXf7nQc
+                        		A5+eELqSkYBC5a199XuhTrO9VE68zz9pGfYI
+                        		Xlp/SPdY3aXhfR+BW/HbW6bxuM8dBZri9kkS
+                        		yb4hNGKf7PqAPHYYgPb0vZhvFmFwzAj8I27i
+                        		Fe6FSRv4/URNYoa6KD4tlk3RPrM=
+                        		)
+@                       RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		ArzanEFBcGVKsnoE6rTXNuYuj/aWeguufS37
+                        		XJA9oJjQGrlJQrF7NhzYgABlYzHvjQBDrOVg
+                        		xfDXWX57RI9X9W8hTjPfcTF+HRnVN0hNt2iH
+                        		tMpCGIKstWSv+htG4mvOZ+0NfI1wNgEE8mF4
+                        		VREgGByt/f66UGPZwKVD48QSVDc=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		tS88VL3Eh8gt/8NDPyURMdkj3qvo0w52xx/I
+                        		RshIw/sjomRhfWDeYKSUUj/dG8znl9qYR77c
+                        		s/7UKgAD2OSRZoyDM3dFlankkM3l7xSHHCWu
+                        		0G4Y5DCujUSF3oGmaQUu7kbCiM3L+5AbrBVo
+                        		mLeRQ0RdeOqQXW+qmZzIYVp1i9Q=
+                        		)
+
+$SOURCE  ADMIN
+$VERSION 121
+$DELETE
+04.dnsv.jp.             AAAA	2400:8500:3fff::53
+                        RRSIG	AAAA 8 3 86400 20250409141405 (
+                        		20250330131405 65503 umamusumelist.com.
+                        		zI+DkVCnQcnrHvByHbnFuTICaY6PC6OW+NDM
+                        		8h28KIRz1oLckn9QIoYkszqe46EG9LJ0hZWA
+                        		CJh6zX4DEoytiALO0NB2h1WU0cmL/gtvN6cA
+                        		tIiIdTsi4jiWWrHAGGngILO9nqWaLDvQQmAi
+                        		BazPcHKbSn3U6Qtb474Cu1L4B4Y=
+                        		)
+@                       RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		tS88VL3Eh8gt/8NDPyURMdkj3qvo0w52xx/I
+                        		RshIw/sjomRhfWDeYKSUUj/dG8znl9qYR77c
+                        		s/7UKgAD2OSRZoyDM3dFlankkM3l7xSHHCWu
+                        		0G4Y5DCujUSF3oGmaQUu7kbCiM3L+5AbrBVo
+                        		mLeRQ0RdeOqQXW+qmZzIYVp1i9Q=
+                        		)
+$ADD
+                        RRSIG	SOA 8 2 86400 20250409142000 (
+                        		20250330132000 65503 umamusumelist.com.
+                        		rgt2lG0EaqLWOOXCdXukHjMBi9l/ILPix0u3
+                        		BU439loNKM2C1bjf1Ra2xcikAyZiCWl6NMEc
+                        		CWjK1jg0cLXTuFmT4H7HKNz1PPZux/JSxJYP
+                        		3UxAa4FxYfMfi4nOCMEC1yxAFPldVqXo4yUJ
+                        		RFBKwo4xZ1x1koEh5UiZ/xVAT18=
+                        		)
+IS6KkXb
+                        		BG4fwchp7Z2VIkg5ZB2flhQ7Okk=
+                        		)
