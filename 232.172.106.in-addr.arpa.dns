@@ -4,7 +4,7 @@
 ;
 
 @                       IN  SOA dns.umamusumelist.com. admin.umamusumelist.com. (
-                        		109          ; serial number
+                        		110          ; serial number
                         		3600         ; refresh
                         		3600         ; retry
                         		432000       ; expire
@@ -25,3 +25,5 @@ dns2.umamusumelist.com. A	3.106.240.226
 
 189                     PTR	umamusumelist.com.
                         PTR	www.umamusumelist.com.
+                        PTR dns.umamusumelist.com.
+
