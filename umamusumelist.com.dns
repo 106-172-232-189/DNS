@@ -4,7 +4,7 @@
 ;
 
 @                       IN  SOA dns.umamusumelist.com. admin.umamusumelist.com. (
-                        		145          ; serial number
+                        		146          ; serial number
                         		3600         ; refresh
                         		3600         ; retry
                         		432000       ; expire
@@ -24,6 +24,8 @@
 @                       A	106.172.232.189
 @                       MX	10	mailforward.dnsv.jp.
 @                       TXT	( "google-site-verification=4D7gOXf0yFXuiPZAHihX2tTlTBb4KBxsObY39KHeWtI" )
+@                       TXT	( "openai-domain-verification=dv-NA5n0dJgrGRpvTn3L5tRmWxy" )
 dns                     A	106.172.232.189
 dns2                    A	3.106.240.226
 www                     A	106.172.232.189
+
