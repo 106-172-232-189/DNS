@@ -1,6 +1,6 @@
 ;
 ;  Database file umamusumelist.com.dns for Default zone scope in zone umamusumelist.com.
-;      Zone version:  145
+;      Zone version:  146
 ;
 
 @                       IN  SOA dns.umamusumelist.com. admin.umamusumelist.com. (
@@ -28,4 +28,5 @@
 dns                     A	106.172.232.189
 dns2                    A	3.106.240.226
 www                     A	106.172.232.189
+
 
